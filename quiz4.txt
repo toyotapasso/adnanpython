@@ -1,0 +1,8 @@
+chapter5 
+write a program that accepts a sentence and calculate the number of letters and digits. suppose the following input is supplied to the program:
+
+hello world! 123
+then the output should be:
+
+LETTER 10
+DIGIT 3
