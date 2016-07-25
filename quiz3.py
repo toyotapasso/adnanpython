@@ -1,4 +1,4 @@
 
 
-square = [value**2 for value in range(1,11,2) ]
+square = [value for value in range(1,10,2)]
 print(square)
