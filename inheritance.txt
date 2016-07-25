@@ -1,0 +1,3 @@
+define a class named shape and its subclass square. the square class has an init function which takes a length ar argument. both classess have a area function which can print the area of the shape where shape's area is 0 by default.
+
+hints: to override a method in super class, we can define a method with the same name as in the super class.
