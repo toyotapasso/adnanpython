@@ -1,0 +1,1 @@
+define a class name Rectangle which can be constructed by a length and width. the rectangle class has a method which can compute the area.
