@@ -1,0 +1,3 @@
+Class Question
+
+define a class named circle which can be constructed by a radius. the circle class has a method which can compute the area.
