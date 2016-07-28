@@ -11,3 +11,4 @@ def squares(values):
         result.append(v * v)
     return result
 
+
